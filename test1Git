@@ -4,5 +4,9 @@ Hello there!
 THIS IS AND UPDATE 2 //uppercasing
 new branch changes -- Created this to show different branches
 
+<<<<<<< HEAD
 
 This is another fix i developed
+=======
+this is a super fantastic fix!
+>>>>>>> fix1
